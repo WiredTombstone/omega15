@@ -7,6 +7,5 @@
 * Optional: get a wolframalpha api key from http://products.wolframalpha.com/api/. 
 
 # Running
-If there's a problem the bot will crash, it will restart using this script.
 	
     npm start
