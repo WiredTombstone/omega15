@@ -1,0 +1,17 @@
+{
+	"dependencies": {
+		"readline": "0.0.7",
+		"ansi-color": "0.2.1",
+		"jsdom": "9.9.1",
+		"text-table": "0.2.0",
+		"redis": "2.6.3",
+		"urban": "0.3.1",
+		"xml2js": "0.4.17",
+		"quran": "0.0.8",
+		"dateformat": "2.0.0",
+		"minecraft-protocol": "latest"
+	},
+	"scripts": {
+		"start": "node app.js"
+	}
+}

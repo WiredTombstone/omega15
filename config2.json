@@ -1,0 +1,25 @@
+{
+	"timeout": 60000,
+	"client":{
+		"host": "9b9t.com",
+		"username": "meg",
+		"password": "**************",
+		"version": "1.11.2"
+	},
+	"startBalance": 7500,
+	"adminPay": 2500,
+	"tpsTest":{
+		"interval":60000,
+		"min": 18,
+		"history": 7
+	},
+	"leaveJoinFilter":{
+		"time":60000,
+		"max": 5
+	},
+	"chatDelay": 2000,
+	"admins":["1bbdd44d-0aef-407a-a558-39e76c58be19"],
+	"wolframalpha": "****-******",
+	"commandRate": 5000,
+	"help": "Help, https://gist.github.com/x13machine/7a13452f266f1e52309545f44cc73e36"
+}
