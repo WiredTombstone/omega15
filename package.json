@@ -9,6 +9,9 @@
 		"xml2js": "0.4.17",
 		"quran": "0.0.8",
 		"dateformat": "2.0.0",
+		"strip-ansi": "3.0.1",
+		"wordnet": "0.1.2",
+		"request": "2.79.0"
 		"minecraft-protocol": "latest"
 	},
 	"scripts": {
