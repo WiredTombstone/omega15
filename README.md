@@ -9,4 +9,4 @@
 # Running
 If there's a problem the bot will crash, it will restart using this script.
 	
-    bash start.sh
+    npm start

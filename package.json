@@ -15,6 +15,6 @@
 		"minecraft-protocol": "latest"
 	},
 	"scripts": {
-		"start": "node app.js"
+		"start": "bash start.sh"
 	}
 }
